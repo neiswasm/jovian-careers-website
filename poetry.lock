@@ -101,7 +101,7 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "werkzeug"
-version = "2.3.6"
+version = "2.3.7"
 description = "The comprehensive WSGI web application library."
 category = "main"
 optional = false
@@ -115,8 +115,8 @@ watchdog = ["watchdog (>=2.3)"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "2ad00fcd2c3cd705ba1297092bef6ada26e234bb799ad23f9866cd3db92afc5a"
+python-versions = "^3.80"
+content-hash = "beb1a91abaa967822ba393deb2e0386e1455e920cd1cf4944b24fb6e76a0bd5a"
 
 [metadata.files]
 blinker = []
